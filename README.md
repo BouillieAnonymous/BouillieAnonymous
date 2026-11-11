@@ -8,6 +8,7 @@ My projects explore computational methods across physics, data-driven modelling,
 
 - **[Perpetual Alpha 2026](https://github.com/BouillieAnonymous/Perpetual-Alpha-2026)** — Perpetual-futures research and trading infrastructure, including market data, cost-aware strategy testing, risk controls, and recoverable execution.
 - **[Jet Classification with GNNs](https://github.com/BouillieAnonymous/Jet_particles_classification)** — Quark–gluon jet classification using CMS Open Data, with controlled comparisons of graph neural network architectures.
+- **[MicroBooNE Neutrino Analysis](https://github.com/BouillieAnonymous/MicroBooNE_lab)** *(Ongoing)* — Third-year physics laboratory project investigating neutrino oscillations using MicroBooNE data, with a focus on event selection, statistical analysis, and machine learning.
 - **[Structural Colour FDTD Workflow](https://github.com/BouillieAnonymous/structural-color-fdtd-workflow)** — Exploratory nanophotonic simulations and spectral-to-colour analysis using FDTD and Python.
 - **[Fullhouse Poker Bot](https://github.com/BouillieAnonymous/4fullhousehackathon)** — Poker bot development with equity estimation, opponent modelling, and experiment-driven strategy evaluation.
 - **[Neutron Transport & ML Surrogates](https://github.com/BouillieAnonymous/neutron-transport-surrogate-model)** — Monte Carlo neutron transport simulations and neural-network surrogate models for transmission prediction.
@@ -15,6 +16,7 @@ My projects explore computational methods across physics, data-driven modelling,
 ### 🔭 Currently
 
 - Investigating graph-based machine learning for particle physics.
+- Analysing neutrino oscillation data from the MicroBooNE experiment.
 - Exploring statistical modelling and quantitative research.
 - Open to research, scientific computing, and quantitative internships for Summer 2027.
 
